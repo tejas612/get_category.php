@@ -1,20 +1,20 @@
 {
   "category": [
     {
-      "id": cat_0.json,
+      "id": 0,
       "name": "15 Aug",
       "sort_by": "random",
       "imageUrl": "https://appsword.in/MV_B/category/15aug.png",
       "cate_sequance": 22,
-      "cate_id": cat_0.json
+      "cate_id": 0
     },
     {
-      "id": cat_1.json,
+      "id": 1,
       "name": "2021",
       "sort_by": "random",
       "imageUrl": "https://appsword.in/MV_B/category/2020.png",
       "cate_sequance": 21,
-      "cate_id": cat_1.json
+      "cate_id": 1
     }
   ]
 }
